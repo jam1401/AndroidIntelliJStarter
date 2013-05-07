@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/androidintellijstarter.iml" filepath="$PROJECT_DIR$/androidintellijstarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidIntelliJStarter.iml" filepath="$PROJECT_DIR$/AndroidIntelliJStarter.iml" />
     </modules>
   </component>
 </project>
