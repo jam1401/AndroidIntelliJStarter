@@ -117,6 +117,13 @@
       <scope>test</scope>
     </dependency>
 
+      <dependency>
+          <groupId>com.ximpleware</groupId>
+          <artifactId>vtd-xml</artifactId>
+          <version>2.11</version>
+          <scope>test</scope>
+      </dependency>
+
     <!-- this needs to come above fest-reflect or we pick up the wrong org.fest.util.Strings -->
     <dependency>
       <groupId>org.easytesting</groupId>
